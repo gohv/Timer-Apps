@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Resident Evil Countdown Timer</string>
+    <string name="getting_data">....getting data....</string>
+</resources>
